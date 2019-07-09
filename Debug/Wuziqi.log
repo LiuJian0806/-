@@ -1,0 +1,30 @@
+﻿生成启动时间为 2019/7/9 22:33:09。
+     1>项目“D:\程序\Wuziqi\Wuziqi\Wuziqi.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Working_Software\Visual_Stdio\VS2012\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Wuziqi.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Working_Software\Visual_Stdio\VS2012\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Wuziqi.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Board.cpp Command.cpp Engine_Log.cpp Pipe.cpp Total_Control_Center.cpp Wuziqi.cpp WuziqiDlg.cpp
+         正在跳过...(未检测到相关更改)
+         WuziqiDlg.cpp
+         Wuziqi.cpp
+         Total_Control_Center.cpp
+         Pipe.cpp
+         Engine_Log.cpp
+         Command.cpp
+         Board.cpp
+       Link:
+         D:\Working_Software\Visual_Stdio\VS2012\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\程序\Wuziqi\Debug\Wuziqi.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\Working_Software\Visual_Stdio\VS2012\VS2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"D:\程序\Wuziqi\Debug\Wuziqi.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\程序\Wuziqi\Debug\Wuziqi.lib" /MACHINE:X86 Debug\Wuziqi.res
+         Debug\Board.obj
+         Debug\Command.obj
+         Debug\Engine_Log.obj
+         Debug\Pipe.obj
+         Debug\stdafx.obj
+         Debug\Total_Control_Center.obj
+         Debug\Wuziqi.obj
+         Debug\WuziqiDlg.obj
+         Wuziqi.vcxproj -> D:\程序\Wuziqi\Debug\Wuziqi.exe
+     1>已完成生成项目“D:\程序\Wuziqi\Wuziqi\Wuziqi.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:20.75
